@@ -10,6 +10,8 @@ I'm a programmer, developer, crafter, product engineer or whatever you want to q
 
 Currently, I'm the CTO of https://thetribe.io in Nantes - France
 
+My blog with some thoughts is at https://www.goblinsatcode.xyz built with hakyll 💚
+
 I'm not the most technical and talented guy on the Earth, but I'm convinced that we can learn and improve every day.
 
 I'm mainly a javascript / typescript programmer, on frontend and backend. I like Python too and I worked with Java, C# few years ago. 
@@ -19,7 +21,7 @@ I prefer to focus on _Deep Skills_ and _Soft Skills_ like :
 
 - software architecture ("hexagonal architecture / port adapters patterns" or "functional core - imperative shell"...) 
 - extreme programming techniques (pair-programming, test driven development, fast feedback loop, introspection...)
-- helping, sharing, growing, learning day to day... as an individu and asa __team__ 
+- helping, sharing, growing, learning day to day... as an individu and as a __team__ 
 
 <!--
 **Maeevick/Maeevick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
