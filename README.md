@@ -12,16 +12,20 @@ Currently, I'm the CTO of https://thetribe.io in Nantes - France
 
 My blog with some thoughts is at https://www.goblinsatcode.xyz built with hakyll 💚
 
-I'm not the most technical and talented guy on the Earth, but I'm convinced that we can learn and improve every day.
+I'm not the most technical and talented guy on the Web, but I'm convinced that we can learn and improve every day and I try to apply this to myself.
 
 I'm mainly a javascript / typescript programmer, on frontend and backend. I like Python too and I worked with Java, C# few years ago. 
 Today, I'm on the long road to improve my Haskell, Elixir and DevOps skills and techniques.
 
-I prefer to focus on _Deep Skills_ and _Soft Skills_ like :
+I prefer to focus on _Deep Skills_ and _Soft Skills_ (than on pure _Hard Skill_ : know by heart a tool or a framework) like :
 
 - software architecture ("hexagonal architecture / port adapters patterns" or "functional core - imperative shell"...) 
 - extreme programming techniques (pair-programming, test driven development, fast feedback loop, introspection...)
 - helping, sharing, growing, learning day to day... as an individu and as a __team__ 
+- improve my communication skills (I have some work on this topic) and experiment new collaboration practices
+- language's best practices and specificities
+
+
 
 <!--
 **Maeevick/Maeevick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
