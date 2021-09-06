@@ -1,6 +1,6 @@
 # Hi Goblin! 😈
 
-## Who am I? 
+## Who ? 
 
 Aurel or Maeevick, born in 1985, married to an amazing woman and father of an incredible little boy.
 
@@ -26,6 +26,31 @@ I prefer to focus on _Deep Skills_ and _Soft Skills_ (than on pure _Hard Skill_ 
 - language's best practices and specificities
 
 
+## What ?
+
+I develop web products for more or less 15 years (from 2021). However, I have not 15 years of experience in Web Development due to change in my career (I started as a Web Developer, then I became Archaeologist and I came back to Web and Mobile Development in 2015). __Today, I won't change again, product engineer is my vocation, my path, my career__.
+
+As a hobbyist, I develop casual video games for myself, my friends and my family. I don't know why I never published anything publicly, fear ? confidence ? As I promote public learning the next one will be public.
+
+I have several ideas about some interesting Software as a Service (SaaS). I have to priorize and find time but it's a goal to try to fix some users' problems that I see.
+
+## How ?
+
+As I said, I'm not the most talented developer on the Earth, so I use some techniques used by Extreme Programmers / Software Crafters and DevOps to ensure products of high quality : 
+
+- Behavior Driven Development
+- Domain Driven Design
+- Acceptance Testing Driven Development
+- Test Driven Development
+- Mutation Testing
+- Hexagonal Architecture
+- Functional Core / Imperative Shell
+- Continuous Integration
+- Continuous Deployment
+- Infrastructure as Code
+- Infrastructure as a Service
+
+All of this techniques and tools may only work with __a continuous collaboration with end users__. I'm convinced theses techniques and tools __reduce the feedback loop and help the product to evolve seamlessly__.
 
 <!--
 **Maeevick/Maeevick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
