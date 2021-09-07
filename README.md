@@ -52,17 +52,17 @@ As I said, I'm not the most talented developer on the Earth, so I use some techn
 
 All of this techniques and tools may only work with __a continuous collaboration with end users__. I'm convinced theses techniques and tools __reduce the feedback loop and help the product to evolve seamlessly__.
 
-## Reference
+## References
+
+_I have no links with amazon, I use it here as another library 
 
 ### Articles 
-
-#### Hexagonal Architecture 
 
 https://alistair.cockburn.us/hexagonal-architecture/
 
 ### Books
 
-
+https://www.amazon.fr/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/
 
 <!--
 **Maeevick/Maeevick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
