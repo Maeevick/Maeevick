@@ -54,7 +54,7 @@ All of this techniques and tools may only work with __a continuous collaboration
 
 ## References
 
-_I have no links with amazon, I use it here as another library 
+_I have no links with amazon, I use it here as another library_
 
 ### Articles 
 
