@@ -56,13 +56,15 @@ All of this techniques and tools may only work with __a continuous collaboration
 
 _I have no links with amazon, I use it here as another library_
 
-### Articles 
-
-https://alistair.cockburn.us/hexagonal-architecture/
-
-### Books
+### Books (mostly), Articles and Videos
 
 https://www.amazon.fr/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/
+
+https://www.amazon.fr/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/ _(first edition is still worth)_
+
+https://www.amazon.fr/Software-Craftsman-Professionalism-Pragmatism-Pride/dp/0134052501/
+
+https://alistair.cockburn.us/hexagonal-architecture/
 
 <!--
 **Maeevick/Maeevick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
