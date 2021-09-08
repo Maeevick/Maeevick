@@ -62,7 +62,7 @@ _I have no links with amazon, I use it here as any other library_
 
 [Kent Beck - Extreme Programming Explained](https://www.amazon.fr/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/)
 
-[Andy Hunt - Pragmatic Programmer](https://www.amazon.fr/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/) _(first edition is still worth)_
+[Andrew Hunt - Pragmatic Programmer](https://www.amazon.fr/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/) _(first edition is still worth)_
 
 [Sandro Mancuso - The Software Craftsman](https://www.amazon.fr/Software-Craftsman-Professionalism-Pragmatism-Pride/dp/0134052501/)
 
