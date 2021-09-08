@@ -66,6 +66,12 @@ _I have no links with amazon, I use it here as any other library_
 
 [Sandro Mancuso - The Software Craftsman](https://www.amazon.fr/Software-Craftsman-Professionalism-Pragmatism-Pride/dp/0134052501/)
 
+[Eric Evans - Domain-Driven Design](https://www.amazon.fr/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) 
+
+[Vaughn Vernon - Implementing Domain-Driven Design](https://www.amazon.fr/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577/)
+
+[Scott Millett & Nick Tune - Patterns, Principles, and Practices of Domain-Driven Design](https://www.amazon.fr/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709/)
+
 ### Articles
 
 [Alistair Cockburn - Hexagonal Architecture](https://alistair.cockburn.us/hexagonal-architecture/) 
