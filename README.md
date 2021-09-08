@@ -52,19 +52,27 @@ As I said, I'm not the most talented developer on the Earth, so I use some techn
 
 All of this techniques and tools may only work with __a continuous collaboration with end users__. I'm convinced theses techniques and tools __reduce the feedback loop and help the product to evolve seamlessly__.
 
-## References
+## Resources
 
-_I have no links with amazon, I use it here as another library_
+⚠️ Not an exhaustive or prescriptive list of resources, it's __my__ fondamental resources to improve myself.
 
-### Books (mostly), Articles and Videos
+_I have no links with amazon, I use it here as any other library_
 
-https://www.amazon.fr/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/
+### Books
 
-https://www.amazon.fr/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/ _(first edition is still worth)_
+[Kent Beck - Extreme Programming Explained](https://www.amazon.fr/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/)
 
-https://www.amazon.fr/Software-Craftsman-Professionalism-Pragmatism-Pride/dp/0134052501/
+[Andy Hunt - Pragmatic Programmer](https://www.amazon.fr/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/) _(first edition is still worth)_
 
-https://alistair.cockburn.us/hexagonal-architecture/
+[Sandro Mancuso - The Software Craftsman](https://www.amazon.fr/Software-Craftsman-Professionalism-Pragmatism-Pride/dp/0134052501/)
+
+### Articles
+
+[Alistair Cockburn - Hexagonal Architecture](https://alistair.cockburn.us/hexagonal-architecture/) 
+
+### Videos
+
+[Ian Cooper - DevEternity 2017 : Where did it all go wrong](https://youtu.be/EZ05e7EMOLM)
 
 <!--
 **Maeevick/Maeevick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
