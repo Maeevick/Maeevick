@@ -80,6 +80,8 @@ _I have no links with amazon, I use it here as any other library_
 
 [Ian Cooper - DevEternity 2017 : Where did it all go wrong](https://youtu.be/EZ05e7EMOLM)
 
+[🇨🇵 Arnaud Lemaire - La stratégie derrière le Domain-Driven Design](https://vimeo.com/420563208)
+
 <!--
 **Maeevick/Maeevick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
