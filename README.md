@@ -78,7 +78,9 @@ _I have no links with amazon, I use it here as any other library_
 
 ### Videos
 
-[Ian Cooper - DevEternity 2017 : Where did it all go wrong](https://youtu.be/EZ05e7EMOLM)
+[Sandro Mancuso - DevEternity 20217 : The Long Road](https://youtu.be/vQDnW265XKU)
+
+[Ian Cooper - DevEternity 2017 : Where Did It All Go Wrong](https://youtu.be/EZ05e7EMOLM)
 
 [🇨🇵 Arnaud Lemaire - La stratégie derrière le Domain-Driven Design](https://vimeo.com/420563208)
 
