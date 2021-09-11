@@ -14,7 +14,7 @@ My blog with some thoughts is at https://www.goblinsatcode.xyz built with hakyll
 
 I'm not the most technical and talented guy on the Web, but I'm convinced that we can learn and improve every day and I try to apply this to myself.
 
-I'm mainly a javascript / typescript programmer, on frontend and backend. I like Python too and I worked with Java, C# few years ago. 
+I'm mainly a javascript / typescript programmer, both frontend and backend. I like Python too and I worked with Java, C# few years ago. 
 Today, I'm on the long road to improve my Haskell, Elixir and DevOps skills and techniques.
 
 I prefer to focus on _Deep Skills_ and _Soft Skills_ (than on pure _Hard Skill_ : know by heart a tool or a framework) like :
@@ -30,7 +30,7 @@ I prefer to focus on _Deep Skills_ and _Soft Skills_ (than on pure _Hard Skill_ 
 
 I develop web products for more or less 15 years (from 2021). However, I have not 15 years of experience in Web Development due to change in my career (I started as a Web Developer, then I became Archaeologist and I came back to Web and Mobile Development in 2015). __Today, I won't change again, product engineer is my vocation, my path, my career__.
 
-As a hobbyist, I develop casual video games for myself, my friends and my family. I don't know why I never published anything publicly, fear ? confidence ? As I promote public learning the next one will be public.
+As a hobbyist, I develop casual video games for myself, my friends and my family. I don't know why I never published anything publicly, fear ? (lack of) confidence ? As I promote public learning the next one will be public.
 
 I have several ideas about some interesting Software as a Service (SaaS). I have to priorize and find time but it's a goal to try to fix some users' problems that I see.
 
@@ -50,11 +50,11 @@ As I said, I'm not the most talented developer on the Earth, so I use some techn
 - Infrastructure as Code
 - Infrastructure as a Service
 
-All of this techniques and tools may only work with __a continuous collaboration with end users__. I'm convinced theses techniques and tools __reduce the feedback loop and help the product to evolve seamlessly__.
+All of these techniques and tools may only work with __a continuous collaboration with end users__. I'm convinced theses techniques and tools __reduce the feedback loop and help the product to evolve seamlessly__.
 
 ## Resources
 
-⚠️ Not an exhaustive or prescriptive list of resources, it's __my__ fondamental resources to improve myself.
+⚠️ Not an exhaustive or a prescriptive list of resources, it's __my__ fondamental resources to improve myself.
 
 _I have no links with amazon, I use it here as any other library_
 
