@@ -76,6 +76,8 @@ _I have no links with amazon, I use it here as any other library_
 
 [Alistair Cockburn - Hexagonal Architecture](https://alistair.cockburn.us/hexagonal-architecture/) 
 
+[Herbert Graca - DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+
 ### Videos
 
 [Sandro Mancuso - DevEternity 20217 : The Long Road](https://youtu.be/vQDnW265XKU)
