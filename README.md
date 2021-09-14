@@ -96,7 +96,7 @@ _I have no links with amazon, I use it here as any other library_
 
 [🇨🇵 Benoit Gantaume - Artisan Développeur Podcast](https://artisandeveloppeur.fr/podcast/)
 
-[🇨🇵 Christophe Chaudier - Radio DevOps](https://lydra.fr/radio-devops/)
+[🇨🇵 Christophe Chaudier _et al._ - Radio DevOps](https://lydra.fr/radio-devops/)
 
 <!--
 **Maeevick/Maeevick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
