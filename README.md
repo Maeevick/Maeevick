@@ -74,6 +74,8 @@ _I have no links with amazon, I use it here as any other library_
 
 [Scott Millett & Nick Tune - Patterns, Principles, and Practices of Domain-Driven Design](https://www.amazon.fr/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709/)
 
+[Harry Percival - Cosmic Python](https://www.cosmicpython.com/book/preface.html) _(free online reading)_
+
 ### Articles
 
 [Alistair Cockburn - Hexagonal Architecture](https://alistair.cockburn.us/hexagonal-architecture/) 
