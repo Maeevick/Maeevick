@@ -88,6 +88,8 @@ _I have no links with amazon, I use it here as any other library_
 
 [🇨🇵 Arnaud Lemaire - La stratégie derrière le Domain-Driven Design](https://vimeo.com/420563208)
 
+[🇨🇵 Michael Azerhad - BDD, DDD, ATDD et TDD expliqués !](https://www.youtube.com/watch?v=jxBmKvS7lAo)
+
 <!--
 **Maeevick/Maeevick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
