@@ -98,6 +98,10 @@ _I have no links with amazon, I use it here as any other library_
 
 [🇨🇵 Christophe Chaudier _et al._ - Radio DevOps](https://lydra.fr/radio-devops/)
 
+### Open Source 
+
+[Haskell Foundation](https://github.com/haskellfoundation)
+
 <!--
 **Maeevick/Maeevick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
