@@ -8,7 +8,7 @@ __Not interested__? Ok I may understand 😁
 
 I'm a programmer, developer, crafter, product engineer or whatever you want to qualify the fact of making high quality digital products to provide value to users!
 
-Currently, I'm the CTO of https://thetribe.io in Nantes - France
+Currently, I'm the CTO/VP Eng of https://thetribe.io in Nantes - France
 
 My blog with some thoughts is at https://www.goblinsatcode.xyz built with hakyll 💚
 
