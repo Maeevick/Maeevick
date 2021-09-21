@@ -60,11 +60,11 @@ _I have no links with amazon, I use it here as any other library_
 
 ### Books
 
-[Kent Beck - Extreme Programming Explained](https://www.amazon.fr/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/)
-
 [Andrew Hunt - Pragmatic Programmer](https://www.amazon.fr/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/) _(first edition is still worth)_
 
 [Sandro Mancuso - The Software Craftsman](https://www.amazon.fr/Software-Craftsman-Professionalism-Pragmatism-Pride/dp/0134052501/)
+
+[Kent Beck - Extreme Programming Explained](https://www.amazon.fr/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/)
 
 [Kent Beck - Test Driven Development by Example](https://www.amazon.fr/Test-Driven-Development-Kent-Beck/dp/0321146530/)
 
