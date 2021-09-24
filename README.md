@@ -52,6 +52,8 @@ As I said, I'm not the most talented developer on the Earth, so I use some techn
 
 All of these techniques and tools may only work with __a continuous collaboration with end users__. I'm convinced theses techniques and tools __reduce the feedback loop and help the product to evolve seamlessly__.
 
+____________________________________________
+
 ## Resources
 
 ⚠️ Not an exhaustive or a prescriptive list of resources, it's __my__ fondamental resources to improve myself.
@@ -102,9 +104,19 @@ _I have no links with amazon, I use it here as any other library_
 
 [🇨🇵 Christophe Chaudier _et al._ - Radio DevOps](https://lydra.fr/radio-devops/)
 
-### Open Source 
+____________________________________________
 
-[Haskell Foundation](https://github.com/haskellfoundation)
+## Open Source 
+
+### Contributing to
+
+- participating to [Haskell Foundation](https://github.com/haskellfoundation)
+  - working on the migration of the website using hakyll [Haskell Foundation (Website)](https://github.com/haskellfoundation/haskellfoundation.github.io/tree/hakyll)
+  - working sometimes on [Haskell School](https://github.com/haskellfoundation/HaskellSchool) _(mainly on the French part)_
+
+### Project ideas
+
+- project to "translate" some part of [Haskell Prelude](https://hackage.haskell.org/package/base-4.15.0.0/docs/Prelude.html) modules to Javascript/Typescript
 
 <!--
 **Maeevick/Maeevick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
