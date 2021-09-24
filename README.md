@@ -52,7 +52,6 @@ As I said, I'm not the most talented developer on the Earth, so I use some techn
 
 All of these techniques and tools may only work with __a continuous collaboration with end users__. I'm convinced theses techniques and tools __reduce the feedback loop and help the product to evolve seamlessly__.
 
-____________________________________________
 
 ## Resources
 
@@ -104,7 +103,6 @@ _I have no links with amazon, I use it here as any other library_
 
 [🇨🇵 Christophe Chaudier _et al._ - Radio DevOps](https://lydra.fr/radio-devops/)
 
-____________________________________________
 
 ## Open Source 
 
