@@ -114,7 +114,7 @@ _I have no links with amazon, I use it here as any other library_
 
 ### Project ideas
 
-- project to "translate" some part of [Haskell Prelude](https://hackage.haskell.org/package/base-4.15.0.0/docs/Prelude.html) modules to Javascript/Typescript
+- project to "translate" some part of [Haskell Prelude](https://hackage.haskell.org/package/base-4.15.0.0/docs/Prelude.html) modules to Javascript/Typescript. [to be started](https://github.com/Maeevick/hs-prelude)
 
 <!--
 **Maeevick/Maeevick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
