@@ -81,6 +81,10 @@ _I have no links with amazon, I use it here as any other library_
 
 [Harry Percival - Cosmic Python](https://www.cosmicpython.com/book/preface.html) _(free online reading)_
 
+[Marty Cagan - Inspired: How to Create Tech Products Customers Love](https://www.amazon.fr/INSPIRED-Create-Products-Customers-English-ebook/dp/B077NRB36N)
+
+[Marty Cagan - Empowered: Ordinary People, Extraordinary Products](https://www.amazon.fr/Empowered-Ordinary-People-Extraordinary-Products/dp/111969129X)
+
 ### Articles
 
 [Alistair Cockburn - Hexagonal Architecture](https://alistair.cockburn.us/hexagonal-architecture/) 
