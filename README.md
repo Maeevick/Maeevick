@@ -61,13 +61,19 @@ _I have no links with amazon, I use it here as any other library_
 
 ### Books
 
+#### Minset
+
 [Andrew Hunt - Pragmatic Programmer](https://www.amazon.fr/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/) _(first edition is still worth)_
 
 [Sandro Mancuso - The Software Craftsman](https://www.amazon.fr/Software-Craftsman-Professionalism-Pragmatism-Pride/dp/0134052501/)
 
+#### Techniques
+
 [Kent Beck - Extreme Programming Explained](https://www.amazon.fr/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/)
 
 [Kent Beck - Test Driven Development by Example](https://www.amazon.fr/Test-Driven-Development-Kent-Beck/dp/0321146530/)
+
+#### DDD
 
 [Eric Evans - Domain-Driven Design](https://www.amazon.fr/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) 
 
@@ -75,11 +81,17 @@ _I have no links with amazon, I use it here as any other library_
 
 [Scott Millett & Nick Tune - Patterns, Principles, and Practices of Domain-Driven Design](https://www.amazon.fr/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709/)
 
+#### FP
+
 [Debasish Ghosh - Function and Reactive Domain Modeling](https://www.amazon.fr/Function-Reactive-Domain-Modeling-Debasish/dp/1617292249)
 
 [Scott Wlashin - Domain Modeling Made Functional](https://www.amazon.fr/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549)
 
+#### Case Studies
+
 [Harry Percival - Cosmic Python](https://www.cosmicpython.com/book/preface.html) _(free online reading)_
+
+#### Product
 
 [Marty Cagan - Inspired: How to Create Tech Products Customers Love](https://www.amazon.fr/INSPIRED-Create-Products-Customers-English-ebook/dp/B077NRB36N)
 
