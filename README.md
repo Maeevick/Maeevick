@@ -113,6 +113,8 @@ _I have no links with amazon, I use it here as any other library_
 
 [🇨🇵 Michael Azerhad - BDD, DDD, ATDD et TDD expliqués !](https://www.youtube.com/watch?v=jxBmKvS7lAo)
 
+[Derek Comartin - Code Opinion _(Youtube Channel)_](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw)
+
 ### Podcast
 
 [🇨🇵 Benoit Gantaume - Artisan Développeur Podcast](https://artisandeveloppeur.fr/podcast/)
