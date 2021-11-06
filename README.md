@@ -8,7 +8,7 @@ __Not interested__? Ok, I may understand 😁
 
 I'm a programmer, developer, crafter, product engineer or whatever you want to qualify the fact of making high-quality digital products to provide value to users!
 
-Currently, I'm the CTO/VP Eng of https://thetribe.io in Nantes - France
+Currently, I'm the CTO/VP of Eng of https://thetribe.io in Nantes - France
 
 My blog with some thoughts is at https://www.goblinsatcode.xyz built with hakyll 💚
 
@@ -77,6 +77,8 @@ _I have no links with Amazon, I use it here as any other library_
 [Kent Beck - Extreme Programming Explained](https://www.amazon.fr/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/)
 
 [Kent Beck - Test-Driven Development by Example](https://www.amazon.fr/Test-Driven-Development-Kent-Beck/dp/0321146530/)
+
+[Jeff Langr - Modern C++ Programming with Test-Driven Development: Code Better, Sleep Better](https://www.amazon.com/Modern-Programming-Test-Driven-Development-Better/dp/1937785483)
 
 #### DDD
 
