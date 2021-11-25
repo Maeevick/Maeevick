@@ -1,66 +1,8 @@
 # Hi Goblin 🤡!
 
-## Who? 
-
-Aurel or Maeevick, born in 1985, married to an amazing woman and father of an incredible little boy.
-
-__Not interested__? Ok, I may understand 😁
-
-I'm a programmer, developer, crafter, product engineer or whatever you want to qualify the fact of making high-quality digital products to provide value to users!
-
-Currently, I'm the CTO/VP of Eng of https://thetribe.io in Nantes - France
-
 My blog with some thoughts is at https://www.goblinsatcode.xyz built with hakyll 💚
 
-I'm not the most technical and talented guy on the Web, but I'm convinced that we can learn and improve every day. I try to apply this to myself.
-
-I'm mainly a Javascript/Typescript programmer, both frontend and backend. 
-I like Python too. I worked with Java, C# a few years ago. 
-Today, I'm on the long road to improve my Haskell, Elixir and DevOps skills and techniques.
-
-I prefer to focus on _Deep Skills_ and _Soft Skills_ (than on pure _Hard Skill_: know by heart a tool or a framework) like :
-
-- software architecture ("hexagonal architecture/port adapters patterns" or "functional core - imperative shell"...) 
-- extreme programming techniques (pair-programming, test-driven development, fast feedback loop, introspection...)
-- helping, sharing, growing, learning day-to-day... as an individual and as a __team__ 
-- improve my communication skills (I have some work on this topic) and experiment with new collaboration practices
-- language's best practices and specificities
-
-
-## What?
-
-I craft web products for more or less 15 years (from 2021). However, I have not 15 years of experience in web development due to a change in my career (I started as a Web Developer, then I became Archaeologist. I came back to Web and Mobile Development in 2015). __Today, I won't change again, product engineer is my vocation, my path, my career__.
-
-As a hobbyist, I develop casual video games for myself, my friends and my family. I don't know why I never published anything publicly, fear? (lack of) confidence? As I promote public learning the next one will be public.
-
-I have several ideas about some Software as a Service (SaaS). I have to prioritize and find the time. Launching a SaaS to fix users' problems that I see is one of my goals.
-
-I'm giving a try to manage topics with Github's project [here](https://github.com/Maeevick/Maeevick/projects/1).
-I let it public following _public learning_ philosophy if it interests someone, it's worth it. 
-__There is nothing innovative or disruptive to justify secret or private visibility. If an idea inspires you, don't hesitate to grab it and make it__ 😉
-
-## How?
-
-As I said, I'm not the most talented developer on the Earth, so I use some techniques used by Extreme Programmers / Software Crafters and DevOps to ensure products of high quality : 
-
-- Behavior Driven Development
-- Domain-Driven Design
-- Acceptance Testing Driven Development
-- Test-Driven Development
-- Mutation Testing
-- Hexagonal Architecture
-- Functional Core / Imperative Shell
-- Continuous Integration
-- Continuous Deployment
-- Infrastructure as Code
-- Infrastructure as a Service
-
-All of these techniques and tools may only work with __a continuous collaboration with end users__. I'm convinced these techniques and tools __reduce the feedback loop and help the product to evolve seamlessly__.
-
-
-## Resources
-
-⚠️ Not an exhaustive or a prescriptive list of resources, it's __my__ fundamental resources to improve myself.
+## Favorite resources
 
 _I have no links with Amazon, I use it here as any other library_
 
@@ -127,18 +69,3 @@ _I have no links with Amazon, I use it here as any other library_
 [🇨🇵 Benoit Gantaume - Artisan Développeur Podcast](https://artisandeveloppeur.fr/podcast/)
 
 [🇨🇵 Christophe Chaudier _et al._ - Radio DevOps](https://lydra.fr/radio-devops/)
-
-
-## Open Source 
-
-### Contributing to
-
-- participating to [Haskell Foundation](https://github.com/haskellfoundation)
-  - working on the migration of the website using hakyll [Haskell Foundation (Website)](https://github.com/haskellfoundation/haskellfoundation.github.io/tree/hakyll)
-  - working on [Haskell School](https://github.com/haskellfoundation/HaskellSchool) _(mainly on the French part)_
-
-### Project ideas
-
-- project to "translate" some part of [Haskell Prelude](https://hackage.haskell.org/package/base-4.15.0.0/docs/Prelude.html) modules to Javascript/Typescript. 
-    - [repo](https://github.com/Maeevick/hs-prelude)
-    - [package](https://www.npmjs.com/package/hs-prelude)
