@@ -4,7 +4,7 @@ My blog with some thoughts is at https://www.goblinsatcode.xyz built with hakyll
 
 ## Favorite resources
 
-_I have no links with Amazon, I use it here as any other library_
+_I have no links with Amazon, I use it here as any other library._
 
 ### Books
 
