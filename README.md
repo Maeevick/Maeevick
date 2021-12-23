@@ -52,6 +52,9 @@ _I have no links with Amazon, I use it here as any other library._
 
 [Herbert Graca - DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 
+[Steve Fenton - My Unit Testing Epiphany](https://www.stevefenton.co.uk/2013/05/my-unit-testing-epiphany/)
+[Steve Fenton - My Unit Testing Epiphany Continued](https://www.stevefenton.co.uk/2013/05/My-Unit-Testing-Epiphany-Continued/)
+
 ### Videos
 
 [Sandro Mancuso - DevEternity 2017: The Long Road](https://youtu.be/vQDnW265XKU)
