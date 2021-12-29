@@ -8,7 +8,7 @@ _I have no links with Amazon, I use it here as any other library._
 
 ### Books
 
-#### Minset
+#### Mindset
 
 [Andrew Hunt - Pragmatic Programmer](https://www.amazon.fr/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/) _(the first edition is still worth)_
 
