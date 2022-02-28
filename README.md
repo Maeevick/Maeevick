@@ -62,7 +62,7 @@ _I have no links with Amazon, I use it here as any other library._
 
 [Ian Cooper - DevEternity 2017: Where Did It All Go Wrong](https://youtu.be/EZ05e7EMOLM)
 
-[J.B. Rainsberger - 7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA)
+[J.B. Rainsberger - 7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://youtu.be/WSes_PexXcA)
 
 [🇨🇵 Arnaud Lemaire - La stratégie derrière le Domain-Driven Design](https://vimeo.com/420563208)
 
