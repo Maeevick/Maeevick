@@ -1,6 +1,6 @@
 # Hi Goblin!
 
-My blog with some thoughts is at https://www.goblinsatcode.xyz built with hakyll 💚 !
+My blog with some thoughts is at https://maeevick.github.io/ built with hakyll 💚 !
 
 ## Favorite resources
 
