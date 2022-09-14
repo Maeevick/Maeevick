@@ -14,6 +14,8 @@ _I have no links with Amazon, I use it here as any other library._
 
 [Sandro Mancuso - The Software Craftsman](https://www.amazon.fr/Software-Craftsman-Professionalism-Pragmatism-Pride/dp/0134052501/)
 
+[Dave Farley - Modern Software Engineering](https://www.amazon.fr/Modern-Software-Engineering-Discipline-Development/dp/0137314914)
+
 #### Techniques
 
 [Kent Beck - Extreme Programming Explained](https://www.amazon.fr/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/)
