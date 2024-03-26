@@ -1,6 +1,4 @@
-# Hi Goblin!
-
-My blog with some thoughts is at https://maeevick.github.io/ built with hakyll 💚 !
+# Hi!
 
 ## Favorite resources
 
