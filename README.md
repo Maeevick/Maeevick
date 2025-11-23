@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm Aurel - CTO at [HD Rain](https://www.hd-rain.com/home/en) building climate risk management solutions.
+I'm Aurel - CTO at [HD Rain](https://www.hd-rain.com/en/home) building climate risk management solutions.
 
 ## What I do
 
