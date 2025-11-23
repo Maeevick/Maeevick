@@ -1,4 +1,72 @@
-# Hi!
+# Hi! 👋
+
+I'm Aurel - CTO at [HD Rain](https://www.hd-rain.com/home/en) building climate risk management solutions.
+
+## What I do
+
+**By day:** Leading a 5-person engineering team processing weather data at scale for parametric insurance.
+
+**By night:** Exploring game development, SaaS building, and creative projects I've postponed for years.
+
+**Philosophy:** Advocate for Extreme Programming (TDD, pair programming), Functional Programming, and Lean Product Management.
+
+---
+
+## Current focus
+
+Exploring game development with Bevy Engine, prototyping SaaS ideas, planning fantasy stories.
+
+See my work: [GitHub repos](https://github.com/Maeevick?tab=repositories) • [Haskell Foundation contribution](https://github.com/haskellfoundation)
+
+---
+
+## Background
+
+**20+ years building software** - from teenage game modding through parallel careers in archaeology and engineering.
+
+**Game development (2002-2011):**
+- Modded *Neverwinter Nights* with custom engines (persistent multiplayer RPG servers)
+- Built tools with NWScript (C-like), Python, HTML/CSS/JS
+- Game design: writing, level design, character development
+
+**Parallel careers (2007-2012):**
+- **Freelance software engineering:** Building products for clients while simultaneously...
+- **Archaeology engineer (started 2008):** Working in preventive archaeology
+  - Specialized in Neolithic and proto-historic periods (Bronze and Iron Ages)
+  - European Atlantic facade focus (Gibraltar to Yell Strait)
+  - Socio-technological aspects of long-distance trade and navigation
+
+**Archaeology focus (2012-2015):**
+- Stopped freelancing to focus fully on archaeology
+- Contracts: site assessment, surveying, excavation, scientific documentation
+- France and Spain
+
+**Full-time software engineering (2015+):**
+- Returned to software engineering full-time
+- Fullstack roles across startups and scale-ups
+- Product management and CTO/CTPO roles
+- Published 79-week newsletter (ended 2024)
+- Contributed to Haskell Foundation open source project
+
+---
+
+## Tech Stack
+
+**Production:** Rust • Python • TypeScript • React • DuckDB • Polars • PostgreSQL  
+**Exploring:** Bevy Engine • ECS Architecture • 3D Rendering  
+**Practices:** Extreme Programming • TDD • Pair Programming • Lean PM • DevOps
+
+---
+
+## Find me
+
+🧢 [LinkedIn](https://linkedin.com/in/aurel-estoup) - Professional updates, leadership & engineering insights
+
+🛠️ [Bluesky](https://bsky.app/profile/maeevick.bsky.social) & [Website](https://www.maeevick.com) - Creative work & dev logs
+
+📫 Open to: Technical consulting, fractional CTPO engagements, training & speaking!
+
+---
 
 ## Favorite resources
 
@@ -63,8 +131,6 @@ _I have no links with Amazon, I use it here as any other library._
 [Ian Cooper - DevEternity 2017: Where Did It All Go Wrong](https://youtu.be/EZ05e7EMOLM)
 
 [J.B. Rainsberger - 7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://youtu.be/WSes_PexXcA)
-
-[🇨🇵 Michael Azerhad - BDD, DDD, ATDD et TDD expliqués !](https://www.youtube.com/watch?v=jxBmKvS7lAo)
 
 [Derek Comartin - Code Opinion _(Youtube Channel)_](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw)
 
