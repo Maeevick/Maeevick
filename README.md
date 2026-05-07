@@ -1,12 +1,12 @@
 # Hi! 👋
 
-I'm Aurel - CTO at [HD Rain](https://www.hd-rain.com/en/home) building climate risk management solutions.
+I'm Aurel - CTO at [Sereno](https://www.linkedin.com/company/serenorisks/) building parametric weather insurance & climate risk management solutions.
 
 ## What I do
 
-**By day:** Leading a 5-person engineering team processing weather data at scale for parametric insurance.
+**By day:** Leading a small engineering team processing weather data at scale for parametric insurance.
 
-**By night:** Exploring game development, SaaS building, and creative projects I've postponed for years.
+**By night:** Exploring game development, SaaS building, bug hunting and creative projects I've postponed for years.
 
 **Philosophy:** Advocate for Extreme Programming (TDD, pair programming), Functional Programming, and Lean Product Management.
 
